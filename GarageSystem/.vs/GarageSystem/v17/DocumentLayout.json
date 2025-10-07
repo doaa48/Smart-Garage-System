@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Doaa\\Doaa_dell\\.NET\\GarageProject_Before_Ticket\\GarageSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D58463C-30FD-42AE-B946-3E73F795EE40}|GarageSystem\\GarageSystem.csproj|d:\\doaa\\doaa_dell\\.net\\garageproject_before_ticket\\garagesystem\\garagesystem\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D58463C-30FD-42AE-B946-3E73F795EE40}|GarageSystem\\GarageSystem.csproj|solutionrelative:garagesystem\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D58463C-30FD-42AE-B946-3E73F795EE40}|GarageSystem\\GarageSystem.csproj|D:\\Doaa\\Doaa_dell\\.NET\\GarageProject_Before_Ticket\\GarageSystem\\garagesystem\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D58463C-30FD-42AE-B946-3E73F795EE40}|GarageSystem\\GarageSystem.csproj|solutionrelative:garagesystem\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D58463C-30FD-42AE-B946-3E73F795EE40}|GarageSystem\\GarageSystem.csproj|D:\\Doaa\\Doaa_dell\\.NET\\GarageProject_Before_Ticket\\GarageSystem\\garagesystem\\sel\\sel_reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D58463C-30FD-42AE-B946-3E73F795EE40}|GarageSystem\\GarageSystem.csproj|solutionrelative:garagesystem\\sel\\sel_reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D58463C-30FD-42AE-B946-3E73F795EE40}|GarageSystem\\GarageSystem.csproj|D:\\Doaa\\Doaa_dell\\.NET\\GarageProject_Before_Ticket\\GarageSystem\\garagesystem\\dal\\dal_reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D58463C-30FD-42AE-B946-3E73F795EE40}|GarageSystem\\GarageSystem.csproj|solutionrelative:garagesystem\\dal\\dal_reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D58463C-30FD-42AE-B946-3E73F795EE40}|GarageSystem\\GarageSystem.csproj|D:\\Doaa\\Doaa_dell\\.NET\\GarageProject_Before_Ticket\\GarageSystem\\garagesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D58463C-30FD-42AE-B946-3E73F795EE40}|GarageSystem\\GarageSystem.csproj|solutionrelative:garagesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 477,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d562c6a0-d2fe-4c19-a8b3-e5cbc09bf375}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reservation.cs [Design]",
+              "DocumentMoniker": "D:\\Doaa\\Doaa_dell\\.NET\\GarageProject_Before_Ticket\\GarageSystem\\GarageSystem\\Reservation.cs",
+              "RelativeDocumentMoniker": "GarageSystem\\Reservation.cs",
+              "ToolTip": "D:\\Doaa\\Doaa_dell\\.NET\\GarageProject_Before_Ticket\\GarageSystem\\GarageSystem\\Reservation.cs [Design]",
+              "RelativeToolTip": "GarageSystem\\Reservation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:51:35.45Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "D:\\Doaa\\Doaa_dell\\.NET\\GarageProject_Before_Ticket\\GarageSystem\\GarageSystem\\Reservation.cs",
+              "RelativeDocumentMoniker": "GarageSystem\\Reservation.cs",
+              "ToolTip": "D:\\Doaa\\Doaa_dell\\.NET\\GarageProject_Before_Ticket\\GarageSystem\\GarageSystem\\Reservation.cs",
+              "RelativeToolTip": "GarageSystem\\Reservation.cs",
+              "ViewState": "AgIAAFoBAAAAAAAAAAD4v3YBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:16:22.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SEL_Reservation.cs",
+              "DocumentMoniker": "D:\\Doaa\\Doaa_dell\\.NET\\GarageProject_Before_Ticket\\GarageSystem\\GarageSystem\\SEL\\SEL_Reservation.cs",
+              "RelativeDocumentMoniker": "GarageSystem\\SEL\\SEL_Reservation.cs",
+              "ToolTip": "D:\\Doaa\\Doaa_dell\\.NET\\GarageProject_Before_Ticket\\GarageSystem\\GarageSystem\\SEL\\SEL_Reservation.cs",
+              "RelativeToolTip": "GarageSystem\\SEL\\SEL_Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T01:26:11.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DAL_Reservation.cs",
+              "DocumentMoniker": "D:\\Doaa\\Doaa_dell\\.NET\\GarageProject_Before_Ticket\\GarageSystem\\GarageSystem\\DAL\\DAL_Reservation.cs",
+              "RelativeDocumentMoniker": "GarageSystem\\DAL\\DAL_Reservation.cs",
+              "ToolTip": "D:\\Doaa\\Doaa_dell\\.NET\\GarageProject_Before_Ticket\\GarageSystem\\GarageSystem\\DAL\\DAL_Reservation.cs",
+              "RelativeToolTip": "GarageSystem\\DAL\\DAL_Reservation.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAYwOcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T01:49:48.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Doaa\\Doaa_dell\\.NET\\GarageProject_Before_Ticket\\GarageSystem\\GarageSystem\\Program.cs",
+              "RelativeDocumentMoniker": "GarageSystem\\Program.cs",
+              "ToolTip": "D:\\Doaa\\Doaa_dell\\.NET\\GarageProject_Before_Ticket\\GarageSystem\\GarageSystem\\Program.cs",
+              "RelativeToolTip": "GarageSystem\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:25:06.344Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 290,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
