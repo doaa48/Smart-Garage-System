@@ -1,2 +1,2 @@
-# Smart-Garage-System
-Smart Garage System with .NET framework and C#
+# Smart-Garage-System 
+Smart Garage System Desktop application with .NET framework and C#
