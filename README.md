@@ -53,16 +53,24 @@ Slot Operations
 <img width="563" height="317" alt="Picture12" src="https://github.com/user-attachments/assets/b55021d0-3998-425c-bf86-81d20f732450" />
 
 # Tech Stack
+
 Language: C#
+
 Framework: .NET Framework ( 4.7 ,4.8+)
+
 UI: Windows Forms
+
 Data Storage: Microsoft SQL Server (local or remote)
+
 IDE: Visual Studio (Community)
 
 # System Requirements
 Windows 10/11
+
 .NET Framework (target version 4.7)
+
 Visual Studio 2019+ with .NET desktop development workload
+
 SQL Server Express/Developer, or LocalDB
 
 # Getting Started
@@ -70,18 +78,27 @@ Clone the repository
 
 text (((git clone https://github.com/doaa48/Smart-Garage-System.git
 cd Smart-Garage-System)))
+
 -Open the solution in Visual Studio
+
 -Let NuGet restore dependencies and build all projects.
+
 -Setup the Database (Run SQL scripts found in /database to create tables for users, slots, reservations, and trouble logs.)
+
 -Update the app.config or settings to match SQL Server connection.
+
 -Build and Run (Press F5 to launch.)
 
 # Configuration
 Connection Strings:
+
 Set in app.config under <connectionStrings>.
 
+
 App Settings:
+
 Configure optional feature flags, logging levels.
 
 Database Location:
+
 Local/remote configurable for flexibility.
